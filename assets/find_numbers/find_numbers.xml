@@ -1,0 +1,231 @@
+<TextureAtlas imagePath="find_numbers.png">
+  <SubTexture name="img_level7_num8" x="1998" y="646" width="10" height="15" frameX="-31" frameWidth="72" frameY="-29" frameHeight="72"/>
+  <SubTexture name="img_level2_num12" x="1623" y="738" width="16" height="12" frameX="-28" frameWidth="72" frameY="-30" frameHeight="72"/>
+  <SubTexture name="img_level7_num7" x="1852" y="738" width="12" height="16" frameX="-30" frameWidth="72" frameY="-28" frameHeight="72"/>
+  <SubTexture name="img_cover_hema_hemabody" x="1698" y="306" width="173" height="190" frameX="0" frameWidth="174" frameY="0" frameHeight="191"/>
+  <SubTexture name="img_level2_num13" x="1651" y="703" width="18" height="14" frameX="-27" frameWidth="72" frameY="-29" frameHeight="72"/>
+  <SubTexture name="img_level2_num14" x="1862" y="700" width="24" height="18" frameX="-24" frameWidth="72" frameY="-27" frameHeight="72"/>
+  <SubTexture name="img_list_hema0" x="1335" y="844" width="105" height="124" frameX="0" frameWidth="106" frameY="0" frameHeight="125"/>
+  <SubTexture name="img_cover_hema_hemaleg" x="1910" y="225" width="52" height="65" frameX="0" frameWidth="53" frameY="0" frameHeight="65"/>
+  <SubTexture name="img_cover_hema_hemahand1" x="1341" y="452" width="59" height="39" frameX="0" frameWidth="59" frameY="0" frameHeight="40"/>
+  <SubTexture name="img_list_hema1" x="1695" y="790" width="124" height="115"/>
+  <SubTexture name="img_cover_hema_leg2" x="1908" y="342" width="43" height="55"/>
+  <SubTexture name="img_level2_num16" x="1372" y="642" width="18" height="14" frameX="-27" frameWidth="72" frameY="-29" frameHeight="72"/>
+  <SubTexture name="img_level2_num15" x="1834" y="718" width="24" height="18" frameX="-24" frameWidth="72" frameY="-27" frameHeight="72"/>
+  <SubTexture name="img_cover_hema_yuefu" x="604" y="881" width="142" height="83" frameX="0" frameWidth="144" frameY="0" frameHeight="83"/>
+  <SubTexture name="img_list_hema4" x="1468" y="755" width="143" height="133" frameX="0" frameWidth="143" frameY="0" frameHeight="134"/>
+  <SubTexture name="img_level5_num16" x="1834" y="696" width="26" height="20" frameX="-23" frameWidth="72" frameY="-26" frameHeight="72"/>
+  <SubTexture name="img_cover_play_downSkin" x="1704" y="0" width="277" height="117"/>
+  <SubTexture name="img_list_hema5" x="1698" y="498" width="134" height="153" frameX="0" frameWidth="134" frameY="0" frameHeight="154"/>
+  <SubTexture name="img_cover_play_upSkin" x="0" y="881" width="265" height="112"/>
+  <SubTexture name="img_level2_num17" x="1934" y="541" width="34" height="40" frameX="-19" frameWidth="72" frameY="-16" frameHeight="72"/>
+  <SubTexture name="img_list_hema2" x="1208" y="615" width="125" height="124" frameX="0" frameWidth="126" frameY="0" frameHeight="124"/>
+  <SubTexture name="img_level5_num18" x="1363" y="704" width="24" height="18" frameX="-24" frameWidth="72" frameY="-27" frameHeight="72"/>
+  <SubTexture name="img_level2_num18" x="1335" y="649" width="30" height="22" frameX="-21" frameWidth="72" frameY="-25" frameHeight="72"/>
+  <SubTexture name="img_cover_river_0" x="0" y="0" width="1213" height="442" frameX="0" frameWidth="1213" frameY="0" frameHeight="443"/>
+  <SubTexture name="img_list_hema6" x="1696" y="653" width="136" height="135" frameX="0" frameWidth="136" frameY="0" frameHeight="136"/>
+  <SubTexture name="img_cover_river_1" x="0" y="444" width="1206" height="435"/>
+  <SubTexture name="img_list_hema7" x="1834" y="768" width="112" height="118" frameX="0" frameWidth="112" frameY="0" frameHeight="119"/>
+  <SubTexture name="img_level2_num19" x="2010" y="695" width="28" height="20" frameX="-22" frameWidth="72" frameY="-26" frameHeight="72"/>
+  <SubTexture name="img_list_hema3" x="1208" y="452" width="131" height="161"/>
+  <SubTexture name="img_list_scoreboard" x="748" y="881" width="160" height="43" frameX="0" frameWidth="160" frameY="0" frameHeight="44"/>
+  <SubTexture name="img_level5_num19" x="2025" y="530" width="20" height="16" frameX="-26" frameWidth="72" frameY="-28" frameHeight="72"/>
+  <SubTexture name="img_level2_num2" x="1623" y="752" width="12" height="13" frameX="-30" frameWidth="72" frameY="-30" frameHeight="72"/>
+  <SubTexture name="img_level5_num2" x="1657" y="647" width="12" height="18" frameX="-30" frameWidth="72" frameY="-27" frameHeight="72"/>
+  <SubTexture name="img_level5_num17" x="1860" y="720" width="20" height="16" frameX="-26" frameWidth="72" frameY="-28" frameHeight="72"/>
+  <SubTexture name="img_sound_0" x="1395" y="509" width="80" height="80"/>
+  <SubTexture name="img_popo" x="1907" y="441" width="40" height="41" frameX="0" frameWidth="41" frameY="0" frameHeight="41"/>
+  <SubTexture name="img_level2_num3" x="1945" y="689" width="10" height="14" frameX="-31" frameWidth="72" frameY="-29" frameHeight="72"/>
+  <SubTexture name="img_level2_num20" x="1981" y="733" width="18" height="13" frameX="-27" frameWidth="72" frameY="-30" frameHeight="72"/>
+  <SubTexture name="img_cover_title_0" x="1475" y="615" width="146" height="138" frameX="0" frameWidth="147" frameY="0" frameHeight="138"/>
+  <SubTexture name="img_level2_num4" x="1660" y="507" width="14" height="22" frameX="-29" frameWidth="72" frameY="-25" frameHeight="72"/>
+  <SubTexture name="img_level5_num20" x="1623" y="700" width="26" height="18" frameX="-23" frameWidth="72" frameY="-27" frameHeight="72"/>
+  <SubTexture name="img_cover_title_1" x="1704" y="119" width="204" height="185" frameX="0" frameWidth="205" frameY="0" frameHeight="186"/>
+  <SubTexture name="img_sound_1" x="1393" y="591" width="80" height="80"/>
+  <SubTexture name="img_level2_num5" x="1934" y="721" width="14" height="18" frameX="-29" frameWidth="72" frameY="-27" frameHeight="72"/>
+  <SubTexture name="img_list_levelbg" x="1215" y="0" width="267" height="264"/>
+  <SubTexture name="img_cover_title_2" x="1208" y="741" width="125" height="115"/>
+  <SubTexture name="img_level2_num6" x="1678" y="414" width="16" height="22" frameX="-28" frameWidth="72" frameY="-25" frameHeight="72"/>
+  <SubTexture name="img_level5_num3" x="1950" y="736" width="12" height="18" frameX="-30" frameWidth="72" frameY="-27" frameHeight="72"/>
+  <SubTexture name="img_tishi" x="1402" y="469" width="73" height="38" frameX="0" frameWidth="81" frameY="0" frameHeight="38"/>
+  <SubTexture name="img_level2_num7" x="1660" y="435" width="14" height="22" frameX="-29" frameWidth="72" frameY="-25" frameHeight="72"/>
+  <SubTexture name="img_cover_title_3" x="1215" y="266" width="194" height="184" frameX="0" frameWidth="194" frameY="0" frameHeight="185"/>
+  <SubTexture name="img_tishi_icon" x="1949" y="455" width="25" height="34"/>
+  <SubTexture name="img_cover_title_4" x="1477" y="435" width="181" height="178"/>
+  <SubTexture name="img_level2_num8" x="1377" y="600" width="14" height="20" frameX="-29" frameWidth="72" frameY="-26" frameHeight="72"/>
+  <SubTexture name="img_cover_tree_0" x="267" y="881" width="194" height="93"/>
+  <SubTexture name="img_level2_num9" x="1928" y="741" width="12" height="16" frameX="-30" frameWidth="72" frameY="-28" frameHeight="72"/>
+  <SubTexture name="img_star" x="1975" y="500" width="48" height="46" frameX="0" frameWidth="48" frameY="0" frameHeight="47"/>
+  <SubTexture name="img_tip_dog" x="1484" y="0" width="218" height="234"/>
+  <SubTexture name="img_cover_tree_1" x="1910" y="119" width="66" height="53" frameX="0" frameWidth="67" frameY="0" frameHeight="53"/>
+  <SubTexture name="img_cover_tree_3" x="1983" y="0" width="60" height="245"/>
+  <SubTexture name="img_cover_tree_2" x="463" y="881" width="139" height="90" frameX="0" frameWidth="139" frameY="0" frameHeight="91"/>
+  <SubTexture name="img_level3_num1" x="1678" y="236" width="20" height="48" frameX="-26" frameWidth="72" frameY="-12" frameHeight="72"/>
+  <SubTexture name="img_fail" x="1341" y="537" width="41" height="39"/>
+  <SubTexture name="img_level3_num11" x="2014" y="582" width="30" height="30" frameX="-21" frameWidth="72" frameY="-21" frameHeight="72"/>
+  <SubTexture name="img_level3_num10" x="1988" y="679" width="20" height="16" frameX="-26" frameWidth="72" frameY="-28" frameHeight="72"/>
+  <SubTexture name="img_header_bg" x="0" y="1060" width="1280" height="70"/>
+  <SubTexture name="img_level3_num12" x="1866" y="680" width="22" height="18" frameX="-25" frameWidth="72" frameY="-27" frameHeight="72"/>
+  <SubTexture name="img_howtoplayExit" x="1208" y="858" width="113" height="96" frameX="-40" frameWidth="201" frameY="-40" frameHeight="182"/>
+  <SubTexture name="img_level3_num13" x="1926" y="647" width="30" height="24" frameX="-21" frameWidth="72" frameY="-24" frameHeight="72"/>
+  <SubTexture name="img_level3_num14" x="1970" y="586" width="38" height="28" frameX="-17" frameWidth="72" frameY="-22" frameHeight="72"/>
+  <SubTexture name="img_level5_num4" x="1960" y="411" width="16" height="22" frameX="-28" frameWidth="72" frameY="-25" frameHeight="72"/>
+  <SubTexture name="img_level0_num1" x="1964" y="268" width="16" height="36" frameX="-28" frameWidth="72" frameY="-18" frameHeight="72"/>
+  <SubTexture name="img_level0_num10" x="1934" y="583" width="34" height="34" frameX="-19" frameWidth="72" frameY="-19" frameHeight="72"/>
+  <SubTexture name="img_level3_num15" x="1671" y="720" width="20" height="16" frameX="-26" frameWidth="72" frameY="-28" frameHeight="72"/>
+  <SubTexture name="img_answer_number_1" x="1678" y="286" width="18" height="48" frameX="0" frameWidth="19" frameY="0" frameHeight="49"/>
+  <SubTexture name="img_level3_num17" x="1888" y="700" width="24" height="18" frameX="-24" frameWidth="72" frameY="-27" frameHeight="72"/>
+  <SubTexture name="img_level3_num16" x="1671" y="702" width="22" height="16" frameX="-25" frameWidth="72" frameY="-28" frameHeight="72"/>
+  <SubTexture name="img_level0_num11" x="2014" y="548" width="30" height="32" frameX="-21" frameWidth="72" frameY="-20" frameHeight="72"/>
+  <SubTexture name="img_level3_num18" x="1882" y="720" width="20" height="14" frameX="-26" frameWidth="72" frameY="-29" frameHeight="72"/>
+  <SubTexture name="img_level3_num2" x="1950" y="434" width="6" height="8" frameX="-33" frameWidth="72" frameY="-32" frameHeight="72"/>
+  <SubTexture name="img_answer_number_10" x="1411" y="317" width="64" height="49" frameX="0" frameWidth="65" frameY="0" frameHeight="50"/>
+  <SubTexture name="img_level5_num5" x="1377" y="724" width="12" height="18" frameX="-30" frameWidth="72" frameY="-27" frameHeight="72"/>
+  <SubTexture name="img_level0_num13" x="1335" y="620" width="35" height="27" frameX="-16" frameWidth="73" frameY="-20" frameHeight="73"/>
+  <SubTexture name="img_level0_num12" x="1834" y="620" width="30" height="26" frameX="-21" frameWidth="72" frameY="-23" frameHeight="72"/>
+  <SubTexture name="img_level0_num14" x="1926" y="619" width="36" height="26" frameX="-18" frameWidth="72" frameY="-23" frameHeight="72"/>
+  <SubTexture name="img_level3_num20" x="1985" y="697" width="22" height="16" frameX="-25" frameWidth="72" frameY="-28" frameHeight="72"/>
+  <SubTexture name="img_level0_num15" x="1970" y="548" width="42" height="36" frameX="-15" frameWidth="72" frameY="-18" frameHeight="72"/>
+  <SubTexture name="img_level3_num3" x="1985" y="715" width="22" height="16" frameX="-25" frameWidth="72" frameY="-28" frameHeight="72"/>
+  <SubTexture name="img_level3_num19" x="1917" y="673" width="26" height="24" frameX="-23" frameWidth="72" frameY="-24" frameHeight="72"/>
+  <SubTexture name="img_level5_num6" x="1900" y="736" width="12" height="18" frameX="-30" frameWidth="72" frameY="-27" frameHeight="72"/>
+  <SubTexture name="img_level5_num7" x="1678" y="388" width="16" height="24" frameX="-28" frameWidth="72" frameY="-24" frameHeight="72"/>
+  <SubTexture name="img_level3_num4" x="1353" y="739" width="12" height="16" frameX="-30" frameWidth="72" frameY="-28" frameHeight="72"/>
+  <SubTexture name="img_level5_num8" x="1866" y="738" width="12" height="16" frameX="-30" frameWidth="72" frameY="-28" frameHeight="72"/>
+  <SubTexture name="img_answer_number_11" x="1910" y="292" width="50" height="48" frameX="0" frameWidth="51" frameY="0" frameHeight="49"/>
+  <SubTexture name="img_level0_num19" x="1866" y="658" width="22" height="20" frameX="-25" frameWidth="72" frameY="-26" frameHeight="72"/>
+  <SubTexture name="img_level3_num7" x="1961" y="385" width="16" height="24" frameX="-28" frameWidth="72" frameY="-24" frameHeight="72"/>
+  <SubTexture name="img_level0_num17" x="1890" y="648" width="30" height="22" frameX="-21" frameWidth="72" frameY="-25" frameHeight="72"/>
+  <SubTexture name="img_level0_num16" x="1834" y="672" width="30" height="22" frameX="-21" frameWidth="72" frameY="-25" frameHeight="72"/>
+  <SubTexture name="img_level0_num2" x="1660" y="459" width="14" height="22" frameX="-29" frameWidth="72" frameY="-25" frameHeight="72"/>
+  <SubTexture name="img_level5_num9" x="1660" y="611" width="10" height="16" frameX="-31" frameWidth="72" frameY="-28" frameHeight="72"/>
+  <SubTexture name="img_level3_num6" x="1961" y="361" width="18" height="22" frameX="-27" frameWidth="72" frameY="-25" frameHeight="72"/>
+  <SubTexture name="img_level0_num20" x="1623" y="646" width="32" height="26" frameX="-20" frameWidth="72" frameY="-23" frameHeight="72"/>
+  <SubTexture name="img_level3_num8" x="1678" y="361" width="16" height="25" frameX="-28" frameWidth="72" frameY="-24" frameHeight="72"/>
+  <SubTexture name="img_level0_num18" x="1907" y="399" width="41" height="40" frameX="-16" frameWidth="72" frameY="-16" frameHeight="72"/>
+  <SubTexture name="img_level0_num3" x="1676" y="504" width="20" height="24" frameX="-26" frameWidth="72" frameY="-24" frameHeight="72"/>
+  <SubTexture name="img_level6_num1" x="1660" y="559" width="10" height="26" frameX="-31" frameWidth="72" frameY="-23" frameHeight="72"/>
+  <SubTexture name="img_level3_num5" x="1678" y="336" width="18" height="23" frameX="-27" frameWidth="72" frameY="-25" frameHeight="72"/>
+  <SubTexture name="img_level6_num11" x="1683" y="738" width="11" height="10" frameX="-30" frameWidth="72" frameY="-31" frameHeight="72"/>
+  <SubTexture name="img_level6_num10" x="1651" y="719" width="18" height="14" frameX="-27" frameWidth="72" frameY="-29" frameHeight="72"/>
+  <SubTexture name="img_level3_num9" x="1660" y="483" width="14" height="22" frameX="-29" frameWidth="72" frameY="-25" frameHeight="72"/>
+  <SubTexture name="img_level6_num12" x="1834" y="752" width="14" height="10" frameX="-29" frameWidth="72" frameY="-31" frameHeight="72"/>
+  <SubTexture name="img_level0_num4" x="1672" y="552" width="24" height="34" frameX="-24" frameWidth="72" frameY="-19" frameHeight="72"/>
+  <SubTexture name="img_level6_num13" x="1894" y="756" width="12" height="10" frameX="-30" frameWidth="72" frameY="-31" frameHeight="72"/>
+  <SubTexture name="img_level0_num5" x="1672" y="624" width="22" height="32" frameX="-25" frameWidth="72" frameY="-20" frameHeight="72"/>
+  <SubTexture name="img_level6_num14" x="2035" y="747" width="10" height="10" frameX="-31" frameWidth="72" frameY="-31" frameHeight="72"/>
+  <SubTexture name="img_level0_num6" x="1676" y="472" width="20" height="30" frameX="-26" frameWidth="72" frameY="-21" frameHeight="72"/>
+  <SubTexture name="img_level4_num1" x="1671" y="658" width="22" height="22" frameX="-25" frameWidth="72" frameY="-25" frameHeight="72"/>
+  <SubTexture name="img_level4_num10" x="1671" y="682" width="23" height="18" frameX="-24" frameWidth="72" frameY="-27" frameHeight="72"/>
+  <SubTexture name="img_level0_num7" x="1907" y="484" width="32" height="48" frameX="-20" frameWidth="72" frameY="-12" frameHeight="72"/>
+  <SubTexture name="img_level4_num11" x="2019" y="737" width="14" height="14" frameX="-29" frameWidth="72" frameY="-29" frameHeight="72"/>
+  <SubTexture name="img_level6_num15" x="1834" y="738" width="16" height="12" frameX="-28" frameWidth="72" frameY="-30" frameHeight="72"/>
+  <SubTexture name="img_answer_number_12" x="1978" y="450" width="64" height="48" frameX="0" frameWidth="64" frameY="0" frameHeight="49"/>
+  <SubTexture name="img_level4_num12" x="1623" y="720" width="20" height="16" frameX="-26" frameWidth="72" frameY="-28" frameHeight="72"/>
+  <SubTexture name="img_level6_num16" x="1964" y="755" width="12" height="11" frameX="-30" frameWidth="72" frameY="-31" frameHeight="72"/>
+  <SubTexture name="img_answer_number_13" x="1982" y="247" width="64" height="49" frameX="0" frameWidth="65" frameY="0" frameHeight="50"/>
+  <SubTexture name="img_level6_num18" x="1335" y="751" width="14" height="12" frameX="-29" frameWidth="72" frameY="-30" frameHeight="72"/>
+  <SubTexture name="img_level6_num17" x="2001" y="737" width="16" height="12" frameX="-28" frameWidth="72" frameY="-30" frameHeight="72"/>
+  <SubTexture name="img_answer_number_14" x="1411" y="419" width="64" height="48" frameX="0" frameWidth="65" frameY="0" frameHeight="49"/>
+  <SubTexture name="img_level0_num8" x="1866" y="631" width="22" height="25" frameX="-25" frameWidth="72" frameY="-24" frameHeight="72"/>
+  <SubTexture name="img_level4_num14" x="1335" y="673" width="28" height="22" frameX="-22" frameWidth="72" frameY="-25" frameHeight="72"/>
+  <SubTexture name="img_level4_num13" x="1834" y="648" width="30" height="22" frameX="-21" frameWidth="72" frameY="-25" frameHeight="72"/>
+  <SubTexture name="img_answer_number_15" x="1411" y="368" width="64" height="49" frameX="0" frameWidth="65" frameY="0" frameHeight="50"/>
+  <SubTexture name="img_level0_num9" x="1672" y="588" width="22" height="34" frameX="-25" frameWidth="72" frameY="-19" frameHeight="72"/>
+  <SubTexture name="img_level4_num15" x="1882" y="736" width="16" height="14" frameX="-28" frameWidth="72" frameY="-29" frameHeight="72"/>
+  <SubTexture name="img_level6_num19" x="1641" y="749" width="14" height="12" frameX="-29" frameWidth="72" frameY="-30" frameHeight="72"/>
+  <SubTexture name="img_answer_number_16" x="1982" y="298" width="64" height="49" frameX="0" frameWidth="65" frameY="0" frameHeight="50"/>
+  <SubTexture name="img_level4_num16" x="1996" y="751" width="14" height="12" frameX="-29" frameWidth="72" frameY="-30" frameHeight="72"/>
+  <SubTexture name="img_level6_num2" x="1953" y="354" width="6" height="10" frameX="-33" frameWidth="72" frameY="-31" frameHeight="72"/>
+  <SubTexture name="img_answer_number_17" x="1979" y="400" width="64" height="48" frameX="0" frameWidth="65" frameY="0" frameHeight="49"/>
+  <SubTexture name="img_level1_num1" x="1964" y="225" width="16" height="41" frameX="-25" frameWidth="73" frameY="-16" frameHeight="73"/>
+  <SubTexture name="img_level6_num3" x="1673" y="752" width="14" height="10" frameX="-29" frameWidth="72" frameY="-31" frameHeight="72"/>
+  <SubTexture name="img_level6_num20" x="1357" y="724" width="18" height="13" frameX="-27" frameWidth="72" frameY="-30" frameHeight="72"/>
+  <SubTexture name="img_level6_num4" x="1953" y="342" width="6" height="10" frameX="-33" frameWidth="72" frameY="-31" frameHeight="72"/>
+  <SubTexture name="img_level4_num17" x="1958" y="672" width="28" height="22" frameX="-22" frameWidth="72" frameY="-25" frameHeight="72"/>
+  <SubTexture name="img_level1_num11" x="1623" y="674" width="26" height="24" frameX="-23" frameWidth="72" frameY="-24" frameHeight="72"/>
+  <SubTexture name="img_level1_num10" x="1623" y="615" width="34" height="29" frameX="-19" frameWidth="72" frameY="-22" frameHeight="72"/>
+  <SubTexture name="img_answer_number_18" x="1411" y="266" width="64" height="49" frameX="0" frameWidth="65" frameY="0" frameHeight="50"/>
+  <SubTexture name="img_level6_num5" x="1367" y="744" width="12" height="16" frameX="-30" frameWidth="72" frameY="-28" frameHeight="72"/>
+  <SubTexture name="img_level1_num12" x="1341" y="493" width="52" height="42" frameX="-10" frameWidth="72" frameY="-15" frameHeight="72"/>
+  <SubTexture name="img_level6_num7" x="2035" y="717" width="10" height="14" frameX="-31" frameWidth="72" frameY="-29" frameHeight="72"/>
+  <SubTexture name="img_level4_num2" x="1659" y="629" width="10" height="16" frameX="-31" frameWidth="72" frameY="-28" frameHeight="72"/>
+  <SubTexture name="img_level1_num13" x="1896" y="583" width="36" height="32" frameX="-18" frameWidth="72" frameY="-20" frameHeight="72"/>
+  <SubTexture name="img_level6_num8" x="1950" y="402" width="8" height="10" frameX="-32" frameWidth="72" frameY="-31" frameHeight="72"/>
+  <SubTexture name="img_answer_number_19" x="1981" y="349" width="64" height="49" frameX="0" frameWidth="65" frameY="0" frameHeight="50"/>
+  <SubTexture name="img_level6_num6" x="2035" y="733" width="10" height="12" frameX="-31" frameWidth="72" frameY="-30" frameHeight="72"/>
+  <SubTexture name="img_level1_num16" x="2010" y="671" width="30" height="22" frameX="-21" frameWidth="72" frameY="-25" frameHeight="72"/>
+  <SubTexture name="img_level1_num15" x="1890" y="617" width="34" height="29" frameX="-19" frameWidth="72" frameY="-22" frameHeight="72"/>
+  <SubTexture name="img_level1_num14" x="2010" y="614" width="36" height="28" frameX="-18" frameWidth="72" frameY="-22" frameHeight="72"/>
+  <SubTexture name="img_level4_num18" x="1917" y="699" width="26" height="20" frameX="-23" frameWidth="72" frameY="-26" frameHeight="72"/>
+  <SubTexture name="img_answer_number_20" x="1910" y="174" width="69" height="49" frameX="0" frameWidth="70" frameY="0" frameHeight="50"/>
+  <SubTexture name="img_answer_number_2" x="1834" y="498" width="32" height="48" frameX="0" frameWidth="33" frameY="0" frameHeight="49"/>
+  <SubTexture name="img_level4_num19" x="1651" y="687" width="18" height="14" frameX="-27" frameWidth="72" frameY="-29" frameHeight="72"/>
+  <SubTexture name="img_level7_num1" x="1660" y="587" width="10" height="22" frameX="-31" frameWidth="72" frameY="-25" frameHeight="72"/>
+  <SubTexture name="img_level1_num17" x="1341" y="578" width="34" height="40" frameX="-19" frameWidth="72" frameY="-16" frameHeight="72"/>
+  <SubTexture name="img_level6_num9" x="1950" y="414" width="8" height="10" frameX="-32" frameWidth="72" frameY="-31" frameHeight="72"/>
+  <SubTexture name="img_level4_num3" x="1372" y="622" width="15" height="18" frameX="-28" frameWidth="72" frameY="-27" frameHeight="72"/>
+  <SubTexture name="img_answer_number_4" x="1873" y="306" width="33" height="48" frameX="0" frameWidth="34" frameY="0" frameHeight="49"/>
+  <SubTexture name="img_level1_num18" x="1970" y="616" width="38" height="28" frameX="-17" frameWidth="72" frameY="-22" frameHeight="72"/>
+  <SubTexture name="img_level4_num20" x="1645" y="735" width="18" height="12" frameX="-27" frameWidth="72" frameY="-30" frameHeight="72"/>
+  <SubTexture name="img_level4_num6" x="1998" y="663" width="10" height="14" frameX="-31" frameWidth="72" frameY="-29" frameHeight="72"/>
+  <SubTexture name="img_answer_number_5" x="1941" y="491" width="32" height="48" frameX="0" frameWidth="33" frameY="0" frameHeight="49"/>
+  <SubTexture name="img_answer_number_6" x="1873" y="407" width="32" height="49" frameX="0" frameWidth="33" frameY="0" frameHeight="50"/>
+  <SubTexture name="img_answer_number_3" x="1868" y="509" width="31" height="49" frameX="0" frameWidth="32" frameY="0" frameHeight="50"/>
+  <SubTexture name="img_level7_num11" x="1880" y="752" width="12" height="12" frameX="-30" frameWidth="72" frameY="-30" frameHeight="72"/>
+  <SubTexture name="img_answer_number_7" x="1901" y="534" width="31" height="47" frameX="0" frameWidth="32" frameY="0" frameHeight="48"/>
+  <SubTexture name="img_level1_num19" x="1834" y="590" width="30" height="28" frameX="-21" frameWidth="72" frameY="-22" frameHeight="72"/>
+  <SubTexture name="img_level1_num2" x="1962" y="306" width="18" height="26" frameX="-27" frameWidth="72" frameY="-23" frameHeight="72"/>
+  <SubTexture name="img_level4_num7" x="1964" y="736" width="12" height="17" frameX="-30" frameWidth="72" frameY="-28" frameHeight="72"/>
+  <SubTexture name="img_answer_number_8" x="1873" y="356" width="32" height="49" frameX="0" frameWidth="33" frameY="0" frameHeight="50"/>
+  <SubTexture name="img_level1_num20" x="1964" y="646" width="32" height="24" frameX="-20" frameWidth="72" frameY="-24" frameHeight="72"/>
+  <SubTexture name="img_level4_num8" x="2010" y="644" width="34" height="25" frameX="-19" frameWidth="72" frameY="-24" frameHeight="72"/>
+  <SubTexture name="img_answer_number_9" x="1873" y="458" width="32" height="49" frameX="0" frameWidth="33" frameY="0" frameHeight="50"/>
+  <SubTexture name="img_level4_num4" x="1657" y="667" width="12" height="18" frameX="-30" frameWidth="72" frameY="-27" frameHeight="72"/>
+  <SubTexture name="img_level4_num9" x="1914" y="739" width="12" height="16" frameX="-30" frameWidth="72" frameY="-28" frameHeight="72"/>
+  <SubTexture name="img_answer_number_bg" x="604" y="970" width="1280" height="88"/>
+  <SubTexture name="img_level4_num5" x="1377" y="578" width="14" height="20" frameX="-29" frameWidth="72" frameY="-26" frameHeight="72"/>
+  <SubTexture name="img_level5_num10" x="1957" y="696" width="26" height="20" frameX="-23" frameWidth="72" frameY="-26" frameHeight="72"/>
+  <SubTexture name="img_level7_num15" x="1864" y="756" width="12" height="10" frameX="-30" frameWidth="72" frameY="-31" frameHeight="72"/>
+  <SubTexture name="img_btn_back_0" x="1948" y="768" width="80" height="80"/>
+  <SubTexture name="img_level1_num3" x="1866" y="560" width="28" height="33" frameX="-21" frameWidth="73" frameY="-20" frameHeight="73"/>
+  <SubTexture name="img_level5_num11" x="1916" y="721" width="16" height="16" frameX="-28" frameWidth="72" frameY="-28" frameHeight="72"/>
+  <SubTexture name="img_level7_num16" x="2012" y="753" width="12" height="12" frameX="-30" frameWidth="72" frameY="-30" frameHeight="72"/>
+  <SubTexture name="img_btn_back_1" x="1613" y="849" width="80" height="80"/>
+  <SubTexture name="img_level1_num4" x="1890" y="672" width="25" height="26" frameX="-25" frameWidth="73" frameY="-20" frameHeight="73"/>
+  <SubTexture name="img_level5_num12" x="2009" y="717" width="24" height="18" frameX="-24" frameWidth="72" frameY="-27" frameHeight="72"/>
+  <SubTexture name="img_level7_num17" x="1665" y="738" width="16" height="12" frameX="-28" frameWidth="72" frameY="-30" frameHeight="72"/>
+  <SubTexture name="img_btn_pause" x="992" y="881" width="76" height="45"/>
+  <SubTexture name="img_level1_num5" x="1962" y="334" width="17" height="25" frameX="-26" frameWidth="73" frameY="-23" frameHeight="73"/>
+  <SubTexture name="img_level5_num1" x="2025" y="500" width="20" height="28" frameX="-26" frameWidth="72" frameY="-22" frameHeight="72"/>
+  <SubTexture name="img_level7_num18" x="1958" y="435" width="18" height="18" frameX="-27" frameWidth="72" frameY="-27" frameHeight="72"/>
+  <SubTexture name="img_level7_num10" x="1950" y="426" width="8" height="6" frameX="-32" frameWidth="72" frameY="-33" frameHeight="72"/>
+  <SubTexture name="img_level7_num14" x="1657" y="752" width="14" height="10" frameX="-29" frameWidth="72" frameY="-31" frameHeight="72"/>
+  <SubTexture name="img_btn_play_0" x="1391" y="673" width="80" height="80"/>
+  <SubTexture name="img_level7_num19" x="1850" y="756" width="12" height="10" frameX="-30" frameWidth="72" frameY="-31" frameHeight="72"/>
+  <SubTexture name="img_level7_num13" x="1335" y="737" width="16" height="12" frameX="-28" frameWidth="72" frameY="-30" frameHeight="72"/>
+  <SubTexture name="img_level7_num20" x="1978" y="748" width="16" height="11" frameX="-28" frameWidth="72" frameY="-31" frameHeight="72"/>
+  <SubTexture name="img_level1_num6" x="1834" y="548" width="30" height="40" frameX="-16" frameWidth="73" frameY="-16" frameHeight="73"/>
+  <SubTexture name="img_level1_num7" x="1866" y="595" width="22" height="34" frameX="-25" frameWidth="72" frameY="-19" frameHeight="72"/>
+  <SubTexture name="img_level7_num3" x="1904" y="720" width="10" height="14" frameX="-31" frameWidth="72" frameY="-29" frameHeight="72"/>
+  <SubTexture name="img_level1_num8" x="1367" y="658" width="22" height="24" frameX="-25" frameWidth="72" frameY="-24" frameHeight="72"/>
+  <SubTexture name="img_btn_play_1" x="910" y="881" width="80" height="80"/>
+  <SubTexture name="img_level1_num9" x="1676" y="438" width="20" height="32" frameX="-26" frameWidth="72" frameY="-20" frameHeight="72"/>
+  <SubTexture name="img_level7_num12" x="1942" y="756" width="12" height="10" frameX="-30" frameWidth="72" frameY="-31" frameHeight="72"/>
+  <SubTexture name="img_btn_restart_0" x="1948" y="850" width="80" height="80"/>
+  <SubTexture name="img_level7_num4" x="1945" y="673" width="10" height="14" frameX="-31" frameWidth="72" frameY="-29" frameHeight="72"/>
+  <SubTexture name="img_btn_restart_1" x="1613" y="767" width="80" height="80"/>
+  <SubTexture name="img_level2_num1" x="1660" y="531" width="10" height="26" frameX="-31" frameWidth="72" frameY="-23" frameHeight="72"/>
+  <SubTexture name="img_level5_num13" x="1335" y="697" width="26" height="20" frameX="-23" frameWidth="72" frameY="-26" frameHeight="72"/>
+  <SubTexture name="img_level7_num2" x="1953" y="378" width="6" height="10" frameX="-33" frameWidth="72" frameY="-31" frameHeight="72"/>
+  <SubTexture name="img_level2_num11" x="1676" y="530" width="20" height="20" frameX="-26" frameWidth="72" frameY="-26" frameHeight="72"/>
+  <SubTexture name="img_level2_num10" x="1335" y="719" width="20" height="16" frameX="-26" frameWidth="72" frameY="-28" frameHeight="72"/>
+  <SubTexture name="img_level7_num5" x="1953" y="366" width="6" height="10" frameX="-33" frameWidth="72" frameY="-31" frameHeight="72"/>
+  <SubTexture name="img_level5_num14" x="1957" y="718" width="22" height="16" frameX="-25" frameWidth="72" frameY="-28" frameHeight="72"/>
+  <SubTexture name="img_btns_alpha" x="2045" y="0" width="0" height="0" frameX="0" frameWidth="72" frameY="0" frameHeight="72"/>
+  <SubTexture name="img_level7_num6" x="1945" y="705" width="10" height="14" frameX="-31" frameWidth="72" frameY="-29" frameHeight="72"/>
+  <SubTexture name="img_level5_num15" x="1365" y="684" width="24" height="18" frameX="-24" frameWidth="72" frameY="-27" frameHeight="72"/>
+  <SubTexture name="img_cover_btnHow" x="1381" y="755" width="85" height="87" frameX="0" frameWidth="85" frameY="0" frameHeight="88"/>
+  <SubTexture name="img_cover_hema_head_0" x="1484" y="236" width="192" height="197" frameX="0" frameWidth="193" frameY="0" frameHeight="198"/>
+  <SubTexture name="img_level7_num9" x="1953" y="390" width="6" height="10" frameX="-33" frameWidth="72" frameY="-31" frameHeight="72"/>
+</TextureAtlas>
